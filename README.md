@@ -12,7 +12,8 @@
 - 📫 How to reach me: muhfajrin709@gmail.com / https://www.linkedin.com/in/muhammad-fajrin-aljabar-32a45b1b6/.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: Besides working on projects for Islamic Relief, I often serve as a freelancer, assisting seniors with their final projects at my University!
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Fajrin21&show_icons=true&theme=gotham" alt="Fajrin21" />
+</br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Fajrin21&theme=dark)](https://git.io/streak-stats)
 </br>
 ![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)
