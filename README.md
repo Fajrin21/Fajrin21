@@ -1,6 +1,6 @@
 ### Hi there 👋 Im, Muhammad Fajrin Aljabar
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?Fajrin21=your-github-Fajrin21)
 
 - 🔭 I’m currently working on building the Islamic Relief website named HATI (House Assistance Tracking and Information) using Leaflet.
 - 🌱 I’m currently learning Flutter for mobile app development and advanced JavaScript for web development.
