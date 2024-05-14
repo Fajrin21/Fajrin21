@@ -8,3 +8,4 @@
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: Besides working on projects for Islamic Relief, I often serve as a freelancer, assisting seniors with their final projects at YS University!
 
+![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]
