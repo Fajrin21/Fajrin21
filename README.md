@@ -19,5 +19,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fajrin21&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=fajrin21&show_icons=true&locale=en" alt="fajrin21" /></p>
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fajrin21&" alt="fajrin21" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fajrin21&show_icons=true&locale=en" alt="fajrin21" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fajrin21&" alt="fajrin21" />
+</div>
