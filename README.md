@@ -17,4 +17,5 @@ I’m always open to learning new technologies, collaborating on meaningful proj
 
 📫 Email: [muhfajrin709@gmail.com](mailto:muhfajrin709@gmail.com)
 🌐 Portfolio: https://fajrin-porto.vercel.app/
+💼 LinkedIn: https://www.linkedin.com/in/muhammad-fajrin-aljabar-5220b6394
 🔗 GitHub: https://github.com/Fajrin21
