@@ -1,25 +1,20 @@
-![Header](https://github.com/Fajrin21/Fajrin21/blob/main/header%20github.png?raw=true)
+I’m a Software Engineer with a strong interest in web and mobile application development, particularly in building practical, scalable, and user-focused digital solutions.
 
+I have experience working with technologies such as PHP, Laravel, JavaScript, TypeScript, React, React Native, MySQL, and Firebase, along with experience in mobile development using Kotlin and Flutter. I also enjoy working with APIs, databases, GIS-based applications, and system integration.
 
-<h1 align="center">Hi there 👋 Im, Muhammad Fajrin Aljabar</h1>
+Throughout my academic and professional journey, I have been involved in developing web and mobile applications, contributing to software projects, solving technical challenges, and collaborating with teams to deliver reliable solutions. I also have experience in technical leadership and mentoring, including organizing technical learning sessions and helping others improve their software development skills.
 
-![](https://komarev.com/ghpvc/?username=your-github-Fajrin21)
+I’m particularly interested in:
+• Web & Backend Development
+• Mobile Application Development
+• Software Engineering
+• API & System Integration
+• GIS & Mapping Applications
+• Humanitarian Technology
+• Technical Leadership & Collaboration
 
-- 🔭 I’m currently working on building the KJA FURQAN website named SIDAK SUARA.
-- 🌱 I’m currently learning Flutter for mobile app development and advanced JavaScript for web development.
-- 👯 I’m looking to collaborate on projects that involve both web and mobile development, especially those related to humanitarian efforts.
-- 💬 Ask me about web development, GIS mapping, mobile app development, and humanitarian technology.
-- 📫 How to reach me: muhfajrin709@gmail.com.
-- 😄 Pronouns: he/him.
-- ⚡ Fun fact: Besides working on projects, I often serve as a freelancer, assisting seniors with their final projects at my University!
+I’m always open to learning new technologies, collaborating on meaningful projects, and building software that creates real-world impact.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fajrin21&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fajrin21&show_icons=true&locale=en" alt="fajrin21" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fajrin21&" alt="fajrin21" />
-</div>
+📫 Email: [muhfajrin709@gmail.com](mailto:muhfajrin709@gmail.com)
+🌐 Portfolio: https://fajrin-porto.vercel.app/
+🔗 GitHub: https://github.com/Fajrin21
